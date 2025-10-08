@@ -3,4 +3,6 @@ services:
   lipogrammeurs:
     image: anssi/fcsc2020-web-lipogrammeurs:latest
     ports:
-      - "80:80"
+      - ${PORT}:80
+    labels:
+      ho.ctf.cyrhades: "1"
