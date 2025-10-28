@@ -4,7 +4,7 @@ Vous avez trouvé cette page qui vous semble étrange.
 Pouvez-vous nous convaincre qu’il y a effectivement un problème en retrouvant le flag présent sur le serveur ?
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Lipogrammeurs](https://hackropole.fr/fr/challenges/web/fcsc2020-web-lipogrammeurs/)
 
